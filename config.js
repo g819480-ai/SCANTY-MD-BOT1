@@ -16,7 +16,7 @@ module.exports = {
     // 2. INFORMATIONS DU BOT
     // ===========================================================
     PREFIX: process.env.PREFIX || '.',
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '+233538573022', // Mettez votre numéro ici
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '+233538573022', // SCANTY ADS
     BOT_NAME: "SCANTY MD BOT",
     BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ scanty-ᴍᴅ',
     
